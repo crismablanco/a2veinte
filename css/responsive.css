@@ -1,0 +1,229 @@
+@media (max-width: 1200px) {
+  #hero-area .contents {
+    padding: 150px 0 50px;
+  }
+  #hero-area .contents h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  #hero-area .contents p.fecha {
+    font-size: 30px;
+  }
+  .btn {
+    font-size: 26px;
+    padding: 5px 30px;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding: 0 10px;
+    font-size: 20px;
+  }
+  .section {
+    padding: 80px 0;
+  }
+  #objetivos {
+    padding: 50px 0 30px 0;
+  }
+  #formato360 {
+    padding: 100px 0 20px 0;
+  }
+  #formato360::before {
+    margin: -80px 0 0 -10px;
+    height: 40px;
+  }
+  #portfolios {
+    padding: 140px 0 40px 0;
+  }
+  #portfolios::before {
+    margin: -80px 0 0 -10px;
+    height: 40px;
+  }
+  #ademas {
+    padding: 100px 0 20px 0;
+  }
+  #ademas::before {
+    margin: -80px 0 0 -10px;
+    height: 40px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .navbar-expand-lg>.container, .navbar-expand-lg>.container-fluid {
+    max-width: 100%;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding: 0 8px;
+    font-size: 18px;
+  }
+  .navbar-brand img {
+    max-width: 120px;
+  }
+  #hero-area {
+    background-size: 100%;
+  }
+  #hero-area .contents h1 {
+    font-size: 28px;
+  }
+  .item-boxes h4 {
+    font-size: 18px;
+  }
+  #features .show-box img {
+    display: none;
+  }
+  .counters .facts-item .fact-count h4 {
+    font-size: 14px;
+  }
+  .single-team {
+    margin-bottom: 30px;
+  }
+  #blog .blog-item-text h3 {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+
+/* mobile or only mobile */
+@media (max-width: 767px) {
+  h1, h2, h3, h4, h5 {
+    font-size: 32px;
+  }
+  #hero-area {
+    background-size: 100%;
+  }
+  #hero-area .contents {
+    padding: 75px 0 5px;
+  }
+  #hero-area .contents h1 {
+    font-size: 18px;
+    line-height: 20px;
+    margin-bottom: 10px;
+  }
+  #hero-area .contents p.fecha {
+    font-size: 22px;
+    margin-bottom: 0 !important;
+  }
+  .navbar {
+    padding: 0;
+  }
+  .btn {
+    font-size: 22px;
+    padding: 0 20px;
+  }
+  .btn-common.yellow {
+    margin-bottom: 5px !important;
+  }
+  .section-header .section-title {
+    font-size: 32px;
+  }
+  .section-header .section-subtitle {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .formato .formato-content p {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .section {
+    padding: 60px 0;
+  }
+  #objetivos {
+    padding: 40px 0 10px 0;
+  }
+  #formato360::before {
+    margin: -70px 0 0 -10px;
+  }
+  #formato360 {
+    background: linear-gradient(178deg, #ffffff 10%, #93c846 0);
+    -ms-background: linear-gradient(178deg, #ffffff 10%, #93c846 0);
+    -webkit-background: linear-gradient(178deg, #ffffff 10%, #93c846 0);
+    -o-background: linear-gradient(178deg, #ffffff 10%, #93c846 0);
+    -moz-background: linear-gradient(178deg, #ffffff 10%, #93c846 0);
+    padding: 80px 0 20px 0;
+  }  
+  .formato .formato-content h2 {
+    font-size: 32px;
+  }
+  #portfolios::before {
+    margin: -60px 0 0 -10px;
+  }
+  #portfolios {
+    background: linear-gradient(-178deg, #93c846 3%, #fff 0);
+    -ms-background: linear-gradient(-178deg, #93c846 3%, #fff 0);
+    -webkit-background: linear-gradient(178deg, #93c846 3%, #fff 0);
+    -o-background: linear-gradient(-178deg, #93c846 3%, #fff 0);
+    -moz-background: linear-gradient(-178deg, #93c846 3%, #fff 0);
+    padding: 80px 0 40px 0;
+  }  
+  #portfolio {
+    max-width: 80%;
+    margin: 0 auto;
+  }
+  #ademas::before {
+    margin: -60px 0 0 -10px;
+  }
+  #ademas {
+    padding: 80px 0 20px 0;
+  }
+  #eventbrite::before {
+    margin: -110px 0 0 -10px;
+    height: 50px;
+  }
+  #eventbrite {
+    padding: 80px 0 60px 0;
+  }
+  #eventbrite h2 a {
+    font-size: 32px;
+  }
+  #espacio .box-item .text h4 {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  #features .show-box img {
+    display: none;
+  }
+  #features .box-item .text h4 {
+    font-size: 14px;
+  }
+  .controls {
+    margin: 0px;
+  }
+  .controls .btn {
+    font-size: 13px;
+    padding: 7px 7px;
+  }
+  .video-promo .video-promo-content h2 {
+    font-size: 22px;
+  }
+  .counters .facts-item {
+    margin-bottom: 30px;
+  }
+  .single-team {
+    margin-bottom: 15px;
+  }
+  .contact-us h3 {
+    font-size: 28px;
+  }
+  .footer-links li a {
+    margin-right: 10px;
+  }
+  .copyright {
+    float: left;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  #hero-area {
+    background-size: 180%;
+  }
+  .slicknav_nav a {
+    padding: 3px 15px;
+    font-family: 'bebas_neue_regular', sans-serif;
+    color: #333 !important;
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  #hero-area {
+    background-size: 220%;
+  }
+}

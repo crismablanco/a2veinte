@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'bebas_neuebold';
+    src: url('../fonts/bebasneue_bold.woff2') format('woff2'),
+         url('../fonts/bebasneue_bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bebas_neuebook';
+    src: url('../fonts/bebasneue_book.woff2') format('woff2'),
+         url('../fonts/bebasneue_book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bebas_neuelight';
+    src: url('../fonts/bebasneue_light.woff2') format('woff2'),
+         url('../fonts/ebasneue_light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bebas_neue_regular';
+    src: url('../fonts/bebasneue_regular.woff2') format('woff2'),
+         url('../fonts/bebasneue_regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bree_rgbold_oblique';
+    src: url('../fonts/bree_bold_oblique.woff2') format('woff2'),
+         url('../fonts/bree_bold_oblique.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bree_ltlight_oblique';
+    src: url('../fonts/bree_light_oblique.woff2') format('woff2'),
+         url('../fonts/bree_light_oblique.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bree_rgoblique';
+    src: url('../fonts/bree_oblique.woff2') format('woff2'),
+         url('../fonts/bree_oblique.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bree_rgregular';
+    src: url('../fonts/bree_regular_1.woff2') format('woff2'),
+         url('../fonts/bree_regular_1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
