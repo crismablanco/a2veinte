@@ -1369,8 +1369,8 @@ footer span {
   width: auto;
   height: 40px;
   float: left;
-  border-right: 1px solid #fff;
-  padding: 0 10px;
+  /*border-right: 1px solid #fff;*/
+  padding: 0 7px;
 }
 footer span.final {
   border-right: none;
